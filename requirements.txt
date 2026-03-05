@@ -1,0 +1,8 @@
+crewai
+crewai-tools
+langchain-google-genai
+langchain-community
+tavily-python
+chromadb
+sentence-transformers
+python-dotenv
